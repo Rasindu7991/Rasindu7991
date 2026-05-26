@@ -1,16 +1,29 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
-<!--
-**Rasindu7991/Rasindu7991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=500&lines=Hello%2C+it's+Rasindu+Dilshan;Software+Engineer" alt="Software Engineer"/>
+</a>
 
-Here are some ideas to get you started:
+### About Me
+Software Engineer with over 4 years of experience designing and delivering scalable, high-performance software solutions across enterprise and retail domains. Experienced in full-stack development, implementing seamless middleware integrations, and optimizing database performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Main Skills
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,angular,react,js,ts,java,postgres,mysql,azure,aws,docker,kubernetes,git,bitbucket,jira,confluence)](https://skillicons.dev)
+
+### Connect with me!
+<div>
+    <a href="https://www.linkedin.com/in/rasindu-dilshan/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+    </a>
+    <a href="https://itsrasindudilshan.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-D9BED1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" height="35"/>
+    </a>
+</div>
+
+### Looking for new opportunities?
+> [!IMPORTANT]  
+> Feel free to check out my full career background or get in touch directly.
+> * 📧 **Email:** rasindudilshan799@gmail.com
+> * 📍 **Location:** Colombo, Sri Lanka
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
