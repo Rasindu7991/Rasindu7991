@@ -5,7 +5,7 @@
 </a>
 
 ### About Me
-[cite_start]Software Engineer with over 4 years of experience designing and delivering scalable, high-performance software solutions across enterprise and retail domains[cite: 7]. [cite_start]Experienced in full-stack development, implementing seamless middleware integrations, and optimizing database performance[cite: 9].
+Software Engineer with over 4 years of experience designing and delivering scalable, high-performance software solutions across enterprise and retail domains. Experienced in full-stack development, implementing seamless middleware integrations, and optimizing database performance.
 
 ### Main Skills
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,angular,react,js,ts,java,postgres,mysql,azure,aws,docker,kubernetes,git,bitbucket,jira,confluence)](https://skillicons.dev)
@@ -23,7 +23,7 @@
 ### Looking for new opportunities?
 > [!IMPORTANT]  
 > Feel free to check out my full career background or get in touch directly.
-> [cite_start]* 📧 **Email:** rasindudilshan799@gmail.com [cite: 2]
-> [cite_start]* 📍 **Location:** Colombo, Sri Lanka [cite: 4]
+> * 📧 **Email:** rasindudilshan799@gmail.com
+> * 📍 **Location:** Colombo, Sri Lanka
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0056b3&height=120&section=footer" alt="footer"/>
